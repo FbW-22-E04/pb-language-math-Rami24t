@@ -17,4 +17,4 @@ console.log(Math.floor(-9.78));
 console.log(Math.floor(28.329));
 
 //3.
-console.log(Math.floor((Math.random()*6)+1));
+console.log(Math.floor(Math.floor(Math.random()*6)+1);

@@ -16,5 +16,5 @@ console.log(Math.floor(76788.7));
 console.log(Math.floor(-9.78));
 console.log(Math.floor(28.329));
 
-//3.
-console.log(Math.floor(Math.floor(Math.random()*6)+1);
+//3. Prints a random integer between 1 and 6:
+console.log(Math.floor(Math.floor(Math.random()*6)+1));
